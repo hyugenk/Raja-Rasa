@@ -1,4 +1,4 @@
-# Raja-Rasa-Sub3-FE-Expert
+# Submission Dicoding "Belajar Front End Developer Expert"
 
 Petunjuk Instalasi :
 1. npm i
