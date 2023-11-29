@@ -1,6 +1,6 @@
 # Submission Dicoding "Belajar Front End Developer Expert"
 
-Petunjuk Instalasi :
+#### Petunjuk Instalasi :
 1. npm i
 2. npm run start-dev
 
