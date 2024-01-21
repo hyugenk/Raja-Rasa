@@ -19,6 +19,11 @@ Syarat:
 - Menerapkan teknik image responsive pada gambar hero. Resolusi gambar pada layar seluler dan desktop harus berbeda.
 - Menerapkan teknik lazy loading pada gambar daftar restoran yang ditampilkan.
 
+### Bundle Optimization
+Syarat:
+- Memasang bundle analyzer pada proyek submission.
+- Gunakan teknik Code Splitting untuk memisahkan vendor code dari kode asli yang Anda tuliskan.
+
 
 
 
