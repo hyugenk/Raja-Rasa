@@ -24,18 +24,15 @@ Syarat:
 - Memasang bundle analyzer pada proyek submission.
 - Gunakan teknik Code Splitting untuk memisahkan vendor code dari kode asli yang Anda tuliskan.
 
+### Pertahankan syarat yang ada pada submission sebelumnya. Seperti penerapan PWA, responsibilitas tampilan,  aksesibilitas pada website dan sebagainya.
 
 
 
-
-
-
-
-#### Petunjuk Instalasi :
+## Petunjuk Instalasi :
 1. `npm i` / `npm install`
 2. `npm run start-dev`
 
-#### Petunjuk Testing :
+## Petunjuk Testing :
 1. `npm run test`
 2. `npm run e2e`
 
