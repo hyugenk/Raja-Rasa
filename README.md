@@ -1,5 +1,11 @@
 ## Submission Dicoding "Belajar Front End Developer Expert" 
 
+## Kriteria
+Fitur yang harus ada pada aplikasi:
+
+### Integration Test
+### End to End Test
+
 #### Petunjuk Instalasi :
 1. `npm i` / `npm install`
 2. `npm run start-dev`
