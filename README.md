@@ -8,7 +8,7 @@ Fitur yang harus ada pada aplikasi:
 
 ### Integration Test
 Syarat:
-- Menerapkan integration test untuk fungsi menyukai dan batal menyukai restoran.
+- Menerapkan integration test untuk fungsi menyukai dan batal menyukai restoran
 
 ### End to End Test
 Syarat:
