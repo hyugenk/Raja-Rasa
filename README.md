@@ -40,6 +40,6 @@ Syarat:
 2. `npm run e2e`
 
 
-#### Link Deploy :
+#### Link Deployment :
 1. Netlify : https://main--lustrous-smakager-b65b6b.netlify.app/
 2. Vercell : https://raja-rasa-sub3-fe-expert-n5aivdk0i-hyugenk.vercel.app/ 
