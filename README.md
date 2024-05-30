@@ -4,7 +4,7 @@
 
 
 ## Kriteria
-Fitur yang harus ada pada aplikasi:
+Fitur yang harus ada pada aplikasi::
 
 ### Integration Test
 Syarat:
