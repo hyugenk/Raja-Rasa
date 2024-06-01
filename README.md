@@ -10,7 +10,7 @@ Fitur yang harus ada pada aplikasi::
 Syarat:
 - Menerapkan integration test untuk fungsi menyukai dan batal menyukai restoran
 
-### End to End Test
+### End to End Testt
 Syarat:
 - Menerapkan End to End Test dengan skenario:
   - Menyukai salah satu restoran.
