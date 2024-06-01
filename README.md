@@ -11,7 +11,7 @@ Syarat:
 - Menerapkan integration test untuk fungsi menyukai dan batal menyukai restoran
 
 ### End to End Test
-Syarat:
+Syarat::
 - Menerapkan End to End Test dengan skenario:
   - Menyukai salah satu restoran.
   - Batal menyukai restoran tersebut.
